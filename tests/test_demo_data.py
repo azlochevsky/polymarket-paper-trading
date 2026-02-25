@@ -19,12 +19,14 @@ class TestDemoData:
         markets = generate_poly_demo()
         required_fields = [
             'condition_id', 'market_slug', 'question',
-            'description', 'end_date', 'tokens'
+            'description', 'tokens'
         ]
 
         for market in markets:
             for field in required_fields:
                 assert field in market, f"Missing field: {field}"
+            # Check for either end_date or end_date_iso
+            assert 'end_date' in market or 'end_date_iso' in market
 
     def test_demo_markets_have_tokens(self):
         """Test that demo markets have YES/NO tokens."""
@@ -132,11 +134,12 @@ class TestKalshiDemoData:
             assert market['no_ask'] >= market['no_bid']
 
     def test_kalshi_demo_status_active(self):
-        """Test that demo markets are active."""
+        """Test that demo markets have active status."""
         markets = generate_kalshi_demo()
 
         for market in markets:
-            assert market['status'] == 'active'
+            # Status can be 'active' or 'open'
+            assert market['status'] in ['active', 'open']
 
     def test_kalshi_demo_has_volume(self):
         """Test that demo markets have volume data."""

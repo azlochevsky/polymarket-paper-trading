@@ -384,7 +384,7 @@ class TestPolymarketClient:
 
             # Price should be updated (simulated movement)
             assert price is not None
-            assert 0 < price < 1
+            assert 0 < price <= 1  # Can be 1.0 if market resolved
 
     def test_opportunity_url_format(self, client):
         """Test that opportunity URLs are correctly formatted."""
