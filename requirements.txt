@@ -1,0 +1,7 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+py-clob-client>=0.20.0
+
+# Optional: Load credentials from .env file
+# Uncomment if you want to use .env for credentials:
+# python-dotenv>=1.0.0
