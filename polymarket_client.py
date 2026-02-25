@@ -112,6 +112,10 @@ class PolymarketClient:
 
     def get_current_price(self, condition_id: str, outcome: str = "YES") -> Optional[float]:
         """Get current price for a specific market outcome."""
+        # Handle None outcome (backward compatibility with NULL database values)
+        if outcome is None:
+            outcome = "YES"
+
         if self.demo_mode:
             # Find market in demo data
             for market in self.demo_markets:
@@ -126,14 +130,32 @@ class PolymarketClient:
             return None
 
         try:
-            market = self.get_market_details(condition_id)
-            if not market:
-                return None
+            # Re-fetch markets to get updated prices
+            # The /markets endpoint works, but /markets/{condition_id} returns 422
+            markets = self.get_markets(limit=200)
 
-            tokens = market.get("tokens", [])
-            for token in tokens:
-                if token.get("outcome", "").upper() == outcome.upper():
-                    return float(token.get("price", 0))
+            for market in markets:
+                market_cond_id = market.get("conditionId") or market.get("condition_id")
+                if market_cond_id == condition_id:
+                    # Parse outcomePrices to get current price
+                    prices_str = market.get("outcomePrices", "[]")
+                    if prices_str and prices_str != "[]":
+                        import json
+                        try:
+                            prices = json.loads(prices_str.replace("'", '"'))
+                            if len(prices) >= 2:
+                                yes_price = float(prices[0])
+                                no_price = float(prices[1])
+
+                                # Debug output
+                                #print(f"   DEBUG: Found {condition_id[:16]}... - YES:{yes_price:.3f} NO:{no_price:.3f} - requesting {outcome}")
+
+                                if outcome.upper() == "YES":
+                                    return yes_price
+                                else:
+                                    return no_price
+                        except (json.JSONDecodeError, ValueError, IndexError):
+                            pass
 
             return None
         except Exception as e:

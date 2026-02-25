@@ -32,9 +32,17 @@ class Database:
                 profit_loss REAL,
                 fee_paid REAL DEFAULT 0,
                 outcome TEXT,
+                outcome_bet TEXT,
                 notes TEXT
             )
         """)
+
+        # Add outcome_bet column if it doesn't exist (for existing databases)
+        try:
+            cursor.execute("ALTER TABLE trades ADD COLUMN outcome_bet TEXT")
+            conn.commit()
+        except:
+            pass  # Column already exists
 
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS market_snapshots (
@@ -51,17 +59,17 @@ class Database:
         conn.close()
 
     def add_trade(self, market_id: str, market_question: str, entry_price: float,
-                  position_size: float, market_source: str = "polymarket") -> int:
+                  position_size: float, market_source: str = "polymarket", outcome_bet: str = "YES") -> int:
         """Add a new paper trade."""
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()
 
         cursor.execute("""
             INSERT INTO trades (market_id, market_question, market_source, entry_time, entry_price,
-                              position_size, current_price, status)
-            VALUES (?, ?, ?, ?, ?, ?, ?, 'OPEN')
+                              position_size, current_price, status, outcome_bet)
+            VALUES (?, ?, ?, ?, ?, ?, ?, 'OPEN', ?)
         """, (market_id, market_question, market_source, datetime.now(), entry_price,
-              position_size, entry_price))
+              position_size, entry_price, outcome_bet))
 
         trade_id = cursor.lastrowid
         conn.commit()
@@ -134,7 +142,7 @@ class Database:
 
         cursor.execute("""
             SELECT id, market_id, market_question, market_source, entry_time, entry_price,
-                   position_size, current_price
+                   position_size, current_price, outcome_bet
             FROM trades
             WHERE status = 'OPEN'
             ORDER BY entry_time DESC

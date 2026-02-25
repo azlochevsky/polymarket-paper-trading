@@ -232,6 +232,10 @@ class KalshiClient:
 
     def get_current_price(self, ticker: str, outcome: str = "YES") -> Optional[float]:
         """Get current price for a specific market outcome."""
+        # Handle None outcome (backward compatibility with NULL database values)
+        if outcome is None:
+            outcome = "YES"
+
         if self.demo_mode:
             # Find market in demo data
             for market in self.demo_markets:

@@ -90,17 +90,20 @@ class PaperTradingBot:
         """Enter a paper trade."""
         market_id = opp.get('condition_id') or opp.get('market_id')
         market_source = opp.get('source', 'polymarket')
+        outcome_bet = opp.get('outcome', 'YES')  # YES or NO
 
         trade_id = self.db.add_trade(
             market_id=market_id,
             market_question=opp['question'],
             entry_price=opp['price'],
             position_size=config.POSITION_SIZE,
-            market_source=market_source
+            market_source=market_source,
+            outcome_bet=outcome_bet
         )
 
         print(f"\n✅ ENTERED TRADE #{trade_id} [{market_source.upper()}]")
         print(f"   Market: {opp['question']}")
+        print(f"   Outcome: {outcome_bet}")
         print(f"   Entry Price: ${opp['price']:.3f}")
         print(f"   Position Size: ${config.POSITION_SIZE}")
         print(f"   Shares: {config.POSITION_SIZE / opp['price']:.2f}")
@@ -118,11 +121,12 @@ class PaperTradingBot:
         for trade in open_trades:
             # Determine which client to use based on market source
             market_source = trade.get('market_source', 'polymarket')
+            outcome_bet = trade.get('outcome_bet', 'YES')  # Which outcome we bet on
 
             if market_source == 'kalshi' and self.kalshi_client:
-                current_price = self.kalshi_client.get_current_price(trade['market_id'])
+                current_price = self.kalshi_client.get_current_price(trade['market_id'], outcome=outcome_bet)
             elif market_source == 'polymarket' and self.polymarket_client:
-                current_price = self.polymarket_client.get_current_price(trade['market_id'])
+                current_price = self.polymarket_client.get_current_price(trade['market_id'], outcome=outcome_bet)
             else:
                 current_price = None
 
