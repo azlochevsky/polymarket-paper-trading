@@ -1,0 +1,28 @@
+[run]
+source = .
+omit =
+    tests/*
+    venv/*
+    __pycache__/*
+    .venv/*
+    */site-packages/*
+    setup.py
+    test_*.py
+    inspect_markets.py
+    find_liquid_markets.py
+    test_auth.py
+    test_kalshi_api.py
+    test_live_kalshi.py
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    raise AssertionError
+    raise NotImplementedError
+    if __name__ == .__main__.:
+    if TYPE_CHECKING:
+    @abstractmethod
+
+[html]
+directory = htmlcov

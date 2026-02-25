@@ -316,3 +316,476 @@ Total Unrealized P&L:                                              $+0.00
 ----------------------------------------------------------------------------------------------------
 1    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
 2    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,181   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,834   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,309   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,224   polymarket               
+7    Will the Pittsburgh Penguins win the 2026 ... $0.976   $608,876     polymarket               
+8    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+9    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+10   Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,267   polymarket               
+11   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+12   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+13   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:46:54]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+2    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,181   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,834   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,309   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,224   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will the Pittsburgh Penguins win the 2026 ... $0.976   $608,876     polymarket               
+9    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+10   Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,267   polymarket               
+11   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+12   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+13   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:47:56]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+2    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,181   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,834   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,309   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,224   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will the Pittsburgh Penguins win the 2026 ... $0.976   $608,876     polymarket               
+9    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+10   Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,267   polymarket               
+11   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+12   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+13   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:49:00]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+2    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,181   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,834   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,309   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,224   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will the Pittsburgh Penguins win the 2026 ... $0.976   $608,876     polymarket               
+9    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+10   Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,267   polymarket               
+11   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+12   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+13   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:50:02]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+2    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,356   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,960   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,371   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,304   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+9    Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,349   polymarket               
+10   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+11   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+12   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+13   Will the Pittsburgh Penguins win the 2026 ... $0.972   $609,212     polymarket               
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:51:04]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+2    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,356   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,960   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,371   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,304   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+9    Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,349   polymarket               
+10   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+11   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+12   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+13   Will the Pittsburgh Penguins win the 2026 ... $0.972   $609,212     polymarket               
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:52:07]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
+----------------------------------------------------------------------------------------------------
+1    Will Pete Buttigieg win the 2028 US Presid... $0.980   $2,373,615   polymarket               
+2    Will the Detroit Red Wings win the 2026 NH... $0.980   $516,783     polymarket               
+3    Will Gretchen Whitmer win the 2028 Democra... $0.980   $5,604,356   polymarket               
+4    Will J.B. Pritzker win the 2028 Democratic... $0.980   $5,296,960   polymarket               
+5    Will Jon Stewart win the 2028 Democratic p... $0.978   $7,518,371   polymarket               
+6    Will Josh Shapiro win the 2028 US Presiden... $0.977   $3,890,304   polymarket               
+7    Biden approval above 45% in March?            $0.976   $94,746      kalshi       Politics    
+8    Will Andy Beshear win the 2028 Democratic ... $0.975   $4,688,236   polymarket               
+9    Will Mark Kelly win the 2028 Democratic pr... $0.975   $7,120,349   polymarket               
+10   Will the Minnesota Timberwolves win the 20... $0.974   $3,471,671   polymarket               
+11   Will Norway win the 2026 FIFA World Cup?      $0.974   $4,757,126   polymarket               
+12   Unemployment below 4% in February?            $0.973   $457,290     kalshi       Economics   
+13   Will the Pittsburgh Penguins win the 2026 ... $0.972   $609,212     polymarket               
+
+⚠️  No new trades entered (position limits or filters applied)
+
+📈 Updating 10 open positions...
+Error fetching market details for 0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x9e54856d758cd7de25b75c97273a38d711642f16eacad57e61982028f2791206
+Error fetching market details for 0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701
+Error fetching market details for 0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9
+Error fetching market details for 0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x5969cbb46aca5319b19e19a3c6f63de098950b675bf268f30f4d035508da1957
+Error fetching market details for 0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3
+Error fetching market details for 0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x3061dcc85903c2700dffd529e0fbd9b0023c3b481324cd0276d5399f9dace5dc
+Error fetching market details for 0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d
+Error fetching market details for 0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f
+Error fetching market details for 0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x2c03c41e5032364cb7166e842bdd22913f28aa2c837d8432704aa89c338875c8
+Error fetching market details for 0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f: 422 Client Error: Unprocessable Entity for url: https://gamma-api.polymarket.com/markets/0x7014b40f62a559be0a0abd2bf1ca1ef16e44674b2c505bb5243c752f2e0d351f
+
+📊 Open Positions (10):
+
+ID    Question                                      Entry    Current  P&L       
+--------------------------------------------------------------------------------
+20    Will the Pittsburgh Penguins win the 2026 ... $0.976   $0.976   $+0.00    
+15    Will Mark Kelly win the 2028 Democratic pr... $0.975   $0.975   $+0.00    
+10    Will Andy Beshear win the 2028 Democratic ... $0.975   $0.975   $+0.00    
+8     Will Josh Shapiro win the 2028 US Presiden... $0.977   $0.977   $+0.00    
+7     Will Jon Stewart win the 2028 Democratic p... $0.978   $0.978   $+0.00    
+6     Rojas guilty in Texas illegal abortion case?  $0.978   $0.978   $+0.00    
+4     Will J.B. Pritzker win the 2028 Democratic... $0.980   $0.980   $+0.00    
+3     Will Gretchen Whitmer win the 2028 Democra... $0.980   $0.980   $+0.00    
+2     Will Pete Buttigieg win the 2028 US Presid... $0.980   $0.980   $+0.00    
+1     Will the Detroit Red Wings win the 2026 NH... $0.980   $0.980   $+0.00    
+--------------------------------------------------------------------------------
+Total Unrealized P&L:                                              $+0.00
+
+
+============================================================
+  PERFORMANCE STATISTICS
+============================================================
+  Total Trades:     10
+  Wins:             10
+  Losses:           0
+  Win Rate:         100.0%
+  Total P&L:        $22.42
+  Total Fees Paid:  $0.46 (2.0% on profits)
+  Avg Profit/Trade: $2.24
+  ROI:              2.24%
+============================================================
+
+
+⏳ Next scan in 60 seconds...
+
+🔍 Scanning markets... [2026-02-25 14:53:10]
+
+📊 Found 13 opportunities:
+
+#    Question                                      Price    Volume       Market       Category    
